@@ -6,6 +6,7 @@ tag:
  - 前端开发
  - CSS
  - tag
+ - git
 
 photos:
  - http://i.imgur.com/0dZAI8y.jpg

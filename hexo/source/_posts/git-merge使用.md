@@ -4,6 +4,7 @@ date: 2018-01-20 11:29:52
 tags:
  - git
 categories:
+ - heyPJ
 ---
 # git merge使用
 
