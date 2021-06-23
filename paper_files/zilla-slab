@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-LightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: italic;
+    font-weight: 500;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-MediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-SemiBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: italic;
+    font-weight: 600;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-SemiBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Zilla Slab';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Zilla Slab'), url('https://fonts.cdnfonts.com/s/15572/ZillaSlab-BoldItalic.woff') format('woff');
+}
+
+
